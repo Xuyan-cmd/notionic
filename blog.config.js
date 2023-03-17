@@ -1,8 +1,8 @@
 const BLOG = {
   title: 'Notionic',
-  author: '左蓝',
-  email: 'i@zuolan.me',
-  link: 'https://zuolan.me',
+  author: '百川',
+  email: 'yh9505604@gmail.com',
+  link: 'https://xuyanblog.cn',
   newsletter: 'Notionic Weekly',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -29,7 +29,7 @@ const BLOG = {
   defaultCover: '/cover.jpg',
   socialLink: {
     twitter: 'https://twitter.com/izuolan',
-    github: 'https://github.com/izuolan',
+    github: 'https://github.com/Xuyan-cmd',
     telegram: 'https://t.me/zuolan'
   },
   seo: {
